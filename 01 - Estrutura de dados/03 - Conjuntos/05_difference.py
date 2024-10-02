@@ -6,3 +6,5 @@ print(resultado)
 
 resultado = conjunto_b.difference(conjunto_a)
 print(resultado)
+
+# valores diferente entre os conjutos

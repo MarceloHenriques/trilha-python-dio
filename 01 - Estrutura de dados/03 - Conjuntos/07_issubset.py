@@ -6,3 +6,5 @@ print(resultado)
 
 resultado = conjunto_b.issubset(conjunto_a)  # False
 print(resultado)
+
+# Quais os elementos entrao dentro do outro

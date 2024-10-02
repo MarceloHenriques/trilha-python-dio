@@ -16,3 +16,6 @@ print(resultado)
 
 resultado = "telefone" in contatos["giovanna@gmail.com"]  # True
 print(resultado)
+
+
+# verifica se a chave existe ou não dentro do dicionario

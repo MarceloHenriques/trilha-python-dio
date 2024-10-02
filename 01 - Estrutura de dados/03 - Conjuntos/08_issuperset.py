@@ -6,3 +6,5 @@ print(resultado)
 
 resultado = conjunto_b.issuperset(conjunto_a)  # True
 print(resultado)
+
+# Quais os elementos não estão dentro do outro

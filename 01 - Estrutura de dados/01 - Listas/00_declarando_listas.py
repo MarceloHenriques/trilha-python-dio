@@ -4,8 +4,11 @@ print(frutas)
 frutas = []
 print(frutas)
 
-letras = list("python")
+letras = list("python") # Quando se coloca o metodo contrutor LIST ele itera sobre cada letra da palavra.
 print(letras)
+
+letras1 = ("python")
+print (letras1)
 
 numeros = list(range(10))
 print(numeros)

@@ -4,3 +4,5 @@ resultado = contatos.popitem()  # ('guilherme@gmail.com', {'nome': 'Guilherme', 
 print(resultado)
 
 # contatos.popitem()  # KeyError
+
+# Não infoam a chave e vai apagando na sequencia
